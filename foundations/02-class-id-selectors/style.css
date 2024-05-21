@@ -1,0 +1,23 @@
+/* All odd numbered elements */
+p.odd {
+    background-color: #ffb6c1; /* Light red/pink background */
+    font-family: Verdana, "DejaVu Sans", sans-serif; /* List of fonts */
+}
+
+/* The second element */
+#second {
+    color: blue; /* Blue text */
+    font-size: 36px; /* Font size of 36px */
+}
+
+/* The third element */
+.special-class {
+    font-size: 24px; /* Font size of 24px */
+}
+
+/* The fourth element */
+#third {
+    background-color: #90ee90; /* Light green background */
+    font-size: 24px; /* Font size of 24px */
+    font-weight: bold; /* Bold text */
+}

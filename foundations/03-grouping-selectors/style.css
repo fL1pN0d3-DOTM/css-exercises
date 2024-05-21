@@ -1,0 +1,17 @@
+/* Styles shared by both elements */
+.common-style {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* Unique styles for the first element */
+.first-element {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+/* Unique styles for the second element */
+.second-element {
+    background-color: yellow;
+}

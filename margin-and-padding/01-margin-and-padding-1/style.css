@@ -6,23 +6,20 @@ body {
 .one {
   background: pink;
   border: 3px solid blue;
-  /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  padding: 32px; /* Adds 32px padding inside the border */
+  margin: 12px;  /* Adds 12px margin around the element */
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
-  /* CHANGE ME */
-  margin-bottom: 0px;
+  margin-bottom: 48px; /* Adds 48px margin below Div Two */
 }
 
 .three {
   background: peachpuff;
   border: 3px solid brown;
   width: 200px;
-  /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 32px;       /* Adds 32px padding inside the border */
+  margin-left: auto;   /* Pushes Div Three to the right */
 }
